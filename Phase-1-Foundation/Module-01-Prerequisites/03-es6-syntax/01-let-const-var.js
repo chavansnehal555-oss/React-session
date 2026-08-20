@@ -31,3 +31,4 @@ console.log(x);
 console.log(window.x); // Output: 1 (in browsers, var declarations are added to the global object)
 
 // Rule of thumb : default to const, use let only when you need to reassign, avoid var
+//Rule of thumb:

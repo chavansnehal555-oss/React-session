@@ -44,3 +44,5 @@ const counter = {
 };
 counter.incrementNormal();
 counter.incrementArrow();
+
+// 

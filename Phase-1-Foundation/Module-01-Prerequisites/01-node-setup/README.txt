@@ -3,3 +3,5 @@ node -v
 
 // Check npm version
 npm -v
+
+//checkout
