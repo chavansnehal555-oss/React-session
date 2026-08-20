@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+//check git installed
+git --version or git -v
+
 node -v
 npm -v
 git -v
@@ -77,9 +79,6 @@ git add .
 git status
 git commit -m "commit message"
 git push
-=======
-//To run react-notes
-cd react-notes
-npm run dev
-//
->>>>>>> main
+
+
+//we have add all this code
